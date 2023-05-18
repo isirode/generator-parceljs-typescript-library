@@ -1,0 +1,21 @@
+{
+  "name": "generator-parceljs-typescript-library",
+  "version": "1.0.0",
+  "description": "Generator for ParcelJS + Typescript library",
+  "main": "index.js",
+  "scripts": {
+    "local": "npm link",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isirode",
+  "license": "SEE LICENCE IN LICENSE",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  }
+}
